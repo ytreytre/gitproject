@@ -17,5 +17,6 @@ public class GitprojectApplication {
         System.out.println("");
         System.out.println("github xiugai");
         System.out.println("吃了吗？");
+        System.out.println("没有");
     }
 }
