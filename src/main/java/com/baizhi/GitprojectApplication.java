@@ -8,6 +8,10 @@ public class GitprojectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitprojectApplication.class, args);
+        System.out.println();
+        System.out.println("dev");
+        System.out.println("123");
+        System.out.println("345");
     }
 
 }
