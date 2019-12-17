@@ -18,5 +18,6 @@ public class GitprojectApplication {
         System.out.println("github xiugai");
         System.out.println("吃了吗？");
         System.out.println("没有");
+        System.out.println("一起吃点？");
     }
 }
