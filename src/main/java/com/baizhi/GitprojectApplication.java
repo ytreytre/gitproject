@@ -12,6 +12,8 @@ public class GitprojectApplication {
         System.out.println("dev");
         System.out.println("123");
         System.out.println("345");
+        System.out.println();
+        System.out.println("dev");
     }
 
 }
